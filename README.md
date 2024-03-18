@@ -4,6 +4,8 @@
 
 Diese React Native-Applikation kann auf Web, Android und Desktop (über Expo) ausgeführt werden.
 
+![reactApps](reactApps.png)
+
 **Voraussetzungen:**
 
 - Node.js installiert
